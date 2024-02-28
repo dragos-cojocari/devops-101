@@ -1,0 +1,7 @@
+Tasks:
+
+Completed tasks:
+- install pre-commit
+- create gpg key, add it to Github account and sign commits with it
+- read commits convention
+- test pr merge
